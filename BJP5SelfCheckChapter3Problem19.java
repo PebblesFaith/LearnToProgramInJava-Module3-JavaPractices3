@@ -2,10 +2,12 @@
    from my "Building Java Programs, A Back to Basics Approach 5e" textbook for my online course
    "Learn to Program in Java" dated on December 16, 2019.
 
-   I had completed, the Chapter 3, Self Check, problem 19 “stringExpression” based on the best possible textbook
+   I had completed, the Chapter 3, Self Check, problem 19 “stringExpressions” based on the best possible textbook
    instructions posted onto “GitHub” website, as the correct answer key dated on December 16, 2019.
 
    Completed by Sarai Hannah Ajai
+
+
 */
 
 public class BJP5SelfCheckChapter3Problem19 {
