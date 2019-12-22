@@ -1,4 +1,4 @@
-/* Write a method call writeNums that takes an integer n as a parameter and pring to the console
+/* Write a method call writeNums that takes an integer n as a parameter and print to the console
    the first n integers starting with 1 in sequential order, separated by commas for Chapter 5,
    Exercises, problem 2 onto page number, 831 from my "Building Java Programs, A Back to Basics
    Approach 5e" textbook for my online course "Learn to Program in Java" dated on December 21, 2019.
